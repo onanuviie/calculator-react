@@ -22,4 +22,4 @@ A calculator made with React JS
 
 ### What I learned
 
-This was my first time using the useReducer hook. I learnt how it can be used to make your code cleaner and your work easier.
+This was my first time using the useReducer hook. I learnt how it can be used to make your code cleaner and make your work easier.
